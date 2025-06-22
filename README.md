@@ -30,7 +30,7 @@ We use the [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/):
 ## 💻 How to Run Locally
 
 1. **Clone the repository**
-git clone https://github.com/your-username/movie-recommender-system-.git
+git clone https://github.com/movie-recommender-system-.git
 cd movie-recommender-system-
 
 3. **Create and activate a virtual environment (optional but recommended)**
